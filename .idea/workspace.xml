@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dee86a34-eafa-45ce-8d6d-ddf7402e4aac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/objectivec/error_utils.mm" beforeDir="false" afterPath="$PROJECT_DIR$/objectivec/error_utils.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objectivec/include/ort_coreml_execution_provider.h" beforeDir="false" afterPath="$PROJECT_DIR$/objectivec/include/ort_coreml_execution_provider.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objectivec/include/ort_enums.h" beforeDir="false" afterPath="$PROJECT_DIR$/objectivec/include/ort_enums.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objectivec/ort_coreml_execution_provider.mm" beforeDir="false" afterPath="$PROJECT_DIR$/objectivec/ort_coreml_execution_provider.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objectivec/ort_enums.mm" beforeDir="false" afterPath="$PROJECT_DIR$/objectivec/ort_enums.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objectivec/test/ort_session_test.mm" beforeDir="false" afterPath="$PROJECT_DIR$/objectivec/test/ort_session_test.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objectivec/test/testdata/gen_models.sh" beforeDir="false" afterPath="$PROJECT_DIR$/objectivec/test/testdata/gen_models.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="Studio" />
+    <option name="majorVersion" value="2025" />
+    <option name="microVersion" value="3" />
+    <option name="minorVersion" value="1" />
+    <option name="patchVersion" value="3" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="30xZZqgLvqTYouLnUjeEW2oL085" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dee86a34-eafa-45ce-8d6d-ddf7402e4aac" name="Changes" comment="" />
+      <created>1754571242354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754571242354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.apollographql.ijplugin.settings.ProjectSettingsState">
+    <option name="hasEnabledGraphQLPluginApolloKotlinSupport" value="true" />
+    <option name="lspPassPathToSuperGraphYaml" value="false" />
+    <option name="telemetryInstanceId" value="07d93583-c788-459d-ae7a-63cadb94f61d" />
+  </component>
+</project>
