@@ -100,7 +100,7 @@ if let pod_archive_path = ProcessInfo.processInfo.environment["ORT_POD_LOCAL_PAT
        Target.binaryTarget(name: "onnxruntime",
                            url: "https://github.com/Lavmee/onnxruntime-swift-package-manager/releases/download/1.22.2/pod-archive-onnxruntime-c-1.22.2.zip",
                            // SHA256 checksum
-                           checksum: "b64081d7e1827f9e2ad3183de5e792c01ab84eed28199d09ac47614c17d6a266")
+                           checksum: "1a20a2eeff0d0d8358c3eba58f6a28290efb02213e07e8df0271344e7b9b4ea6")
     )
 }
 
